@@ -1,0 +1,33 @@
+.content {
+    /* margin-left: 190px;
+    min-height: 100vh; */
+    background: #FFFFFF;
+    /* transition: 0.5s; */
+    margin-top: 50px;
+}
+.dashboard-main i {
+    font-size: 48px;
+    font-weight: 900;
+    color: #0C5ADB;
+}
+.YPIdN, .kfqsYh {
+    width: 38px !important;
+    height: 38px !important;
+}
+.jdiNPu {
+    border: none !important;
+    background: rgb(248 249 250) !important;
+}
+.hsZXZs {
+    width: 38px !important;
+    height: 38px !important;
+    line-height: 38px !important;;
+}
+.kJIOyz {
+    padding: 10px 0 !important;
+}
+/* @media(min-width:992px){
+    .content {
+        width: calc(100% - 190px);
+    }
+} */
